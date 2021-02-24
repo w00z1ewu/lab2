@@ -1,5 +1,11 @@
 package com.company;
 
+/**
+ * <b>Wrapper String</b> class.
+ * @author wooz1ewu
+ * @version 2.1
+ *
+ *  */
 public class WrapperString {
 
     String strvalue;
